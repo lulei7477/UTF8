@@ -1,2 +1,2 @@
-||163.com$S@http://.*ent.*"@fuck"@
+||163.com$S@http://.*ent.163.*"@fuck"@
 ||163.com$S@http://lady.*"@fuck"@
