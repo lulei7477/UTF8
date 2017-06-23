@@ -1,3 +1,1 @@
-||163.com$S@http://.*ent.163.*"@fuck"@
-||163.com$S@http://lady.*"@fuck"@
 3g.163.com>>papa
