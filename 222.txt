@@ -1,1 +1,1 @@
-||javbus.info$s@<table class="ad-table*/table>"@@$stylesheet
+||javbus.info$s@ad-table@XXXXX@$stylesheet
