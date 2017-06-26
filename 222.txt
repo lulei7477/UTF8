@@ -1,1 +1,1 @@
-||javbus.info$s@ad-table@@
+||javbus.info$s@<div class="ad-table*/table>"@@
