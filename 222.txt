@@ -1,2 +1,2 @@
 '||javbus.info$s@ad-table@XXXXX@$stylesheet
-||javbus.info$S@\.ad-list.*\n.*\n}@@$stylesheet
+||javbus.info$s@.ad-list {@@$stylesheet
